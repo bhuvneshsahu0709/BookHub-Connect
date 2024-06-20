@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# **Bookstore CMS**
+# **BookHub-Connect**
 BookHub-Connect provides users with a seamless shopping experience, offering a wide range of books across various genres and categories. Key features include a user-friendly interface, advanced search and filtering options, user reviews and ratings, and personalized book recommendations.
 
 ## **Tech Stack** 🛠<a name="tech-stack"></a>
@@ -147,23 +147,4 @@ The project is organized as follows:
 - Navigate to the **[Books](http://localhost:3000/)** page to view, add, and edit books.
 - Use the **[Categories](http://localhost:3000/categories/All)** page to categorize books by genre.
 - Easily manage your book collection using the intuitive user interface.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## **Contributing** 🤝<a name="contributing"></a>
-
-Contributions are welcome! If you'd like to contribute to the project, please follow these guidelines:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them using conventional commits.
-4. Push your branch to your fork.
-5. Open a pull request with a clear title and description.
-
-Please ensure your code adheres to the project's coding standards and is well-documented.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## **Overview** 📷<a name="overvi
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
